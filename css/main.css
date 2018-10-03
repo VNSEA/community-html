@@ -1,0 +1,52 @@
+a {
+	color: #000000;
+}
+a:hover {
+	color: #000000;
+	text-decoration: none;
+}
+li {
+	display: block;
+}
+textarea, input[type=text] {
+	border: none;
+	border-radius: 0;
+}
+input[type=submit] {
+	background-color: #000000;
+	color: #FFFFFF;
+}
+.contact-map-container {
+	height: 600px;
+	width: 100%;
+}
+.profile-cover {
+	background-image: url('../img/profilecover.jpg');
+	background-repeat: no-repeat;
+	background-position: left top; 
+	background-size: cover;
+	height: 300px;
+}
+.profile-header {
+	position:relative; 
+	top: -150px;
+}
+.profile-img {
+	width: 300px;
+	height: 300px;
+	border: 10px solid #FFFFFF;
+}
+.profile-seller-rating {
+	justify-content: flex-end; 
+	display: flex;
+}
+.profile-buyer-rating {
+	display: flex;
+}
+.profile-rating-star {
+	color: #C4C4C4;
+}
+#contact-map {
+	height: 100%;
+	display: block;
+}
