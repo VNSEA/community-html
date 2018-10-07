@@ -56,6 +56,9 @@ input[type=submit] {
 .thin-font-400 {
 	font-weight: 400;
 }
-.big-3-5rem{
-	font-size: 3.5rem;
+.big-3rem{
+	font-size: 3rem;
+}
+.paragraph{
+	font-size: 0.8rem;
 }
