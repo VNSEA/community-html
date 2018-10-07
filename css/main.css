@@ -50,6 +50,9 @@ input[type=submit] {
 	height: 100%;
 	display: block;
 }
+.thin-font-300 {
+	font-weight: 300;
+}
 .thin-font-400 {
 	font-weight: 400;
 }
