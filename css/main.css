@@ -27,7 +27,7 @@ input[type=submit] {
 .profile-cover {
 	background-image: url('../img/profilecover.jpg');
 	background-repeat: no-repeat;
-	background-position: left top; 
+	background-position: left top;
 	background-size: cover;
 	height: 300px;
 }
@@ -65,4 +65,23 @@ input[type=submit] {
 }
 .paragraph{
 	font-size: 0.8rem;
+}
+.font-size-50{
+	font-size: 50px;
+}
+.blue-fb {
+	color: #3B5998
+}
+.blue-tw {
+	color: #1DA1F2
+}
+.red-gg {
+	color: #DB3236
+}
+.underline {
+	text-decoration: underline;
+}
+
+a {
+	color: #000!important;
 }
