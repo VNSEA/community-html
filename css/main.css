@@ -97,3 +97,6 @@ a {
 .margin-bottom-0-5{
 	margin-bottom: 0.5em
 }
+.taller-button button{
+	height: 50px;
+}
